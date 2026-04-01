@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class ChatMessage {
 
-    private int id;
     private String sender;
     private String content;
 }
